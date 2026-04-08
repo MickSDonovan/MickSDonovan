@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Full-Stack JS/TS Developer · CDA RNCP Level 6              
+I build production-ready web apps — APIs, interfaces, microservices, infra.
 <!--
 **MickSDonovan/MickSDonovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
