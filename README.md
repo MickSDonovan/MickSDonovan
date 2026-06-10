@@ -1,13 +1,17 @@
 # Hi, I'm Mick 👋
 
-**Full-Stack JS/TS Developer · CDA RNCP Level 6**
-I build production-ready web apps — APIs, interfaces, microservices, infra.
+**Freelance Full-Stack JS/TS Developer · CDA RNCP Level 6**
+I build production-ready web apps — APIs, interfaces, microservices, and deployment workflows.
 
-> 🔧 From organization to infrastructure, all the way to the interface. I'm always refining the whole pipeline.
+> 🔧 From planning to infrastructure, all the way to the interface. I like clean systems, clear ownership, and work that actually ships.
 
-🌱 After building solid DevOps foundations, I'm now diving into AI. Exciting times.
+🌱 Currently based in Lisbon and registered as an independent developer in Belgium.
 
-🚀 Looking for my next challenge — startup or product-driven team.
+🚀 Available for freelance missions — also open to strong full-time opportunities.
+
+🌐 Portfolio: [mick.designloadstudio.com](https://mick.designloadstudio.com)
+
+🧠 Exploring practical AI consulting: workflow automation, developer tooling, and AI-assisted product features.
 
 
 # 💻 Tech Stack:
