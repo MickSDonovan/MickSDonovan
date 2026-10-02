@@ -1,14 +1,15 @@
 # Hi, I'm Mick 👋
 
-**Freelance Full-Stack JS/TS Developer · DevOps **
-**CDA RNCP Level 6**
-I build production-ready web apps — APIs, interfaces, microservices, and deployment workflows.
+**Full-Stack JS/TS Developer · DevOps**  
+**CDA · RNCP Level 6**
 
-> 🔧 From planning to infrastructure, all the way to the interface. I like clean systems, clear ownership, and work that actually ships.
+I build production-ready web apps—APIs, interfaces, microservices, and deployment workflows.
 
-🌱 Currently based in Lisbon and registered as an independent developer in Belgium.
+> 🔧 From planning and infrastructure to the final interface, I like clean systems, clear ownership, and work that actually ships.
 
-🚀 Available for freelance missions — also open to strong full-time opportunities.
+🌱 Based in Lisbon and registered as an independent developer in Belgium.
+
+🚀 Available for freelance projects and open to the right full-time opportunity.
 
 🌐 Portfolio: [michel-colacino.designloadstudio.com](https://michel-colacino.designloadstudio.com)
 
